@@ -12,9 +12,8 @@ Main Code :
 - ExampleCode.m   
 - ExampleDetailCode.m
 
-Description :
-- Change parameter in ExampleDetailCode.m
-      - Line 6, FolderPath : Dicom file path
-      - Line 21~22, Width & Center : Window setting related Dicom images
+Description (Change parameter in ExampleDetailCode.m)
+- Line 6, FolderPath : Dicom file path
+- Line 21~22, Width & Center : Window setting related Dicom images
 - See the article 'Automatic Lung Segmentation with Juxta-Pleural Nodule Identification Using Active Contour Model and Bayesian Approach'.
       
