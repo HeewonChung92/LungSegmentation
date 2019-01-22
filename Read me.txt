@@ -37,6 +37,7 @@ Folder name: CHANVESE
 		LungSeparation.m
 		RemainAngleArea.m
 		RemoveContourArea.m	
+		ReadAllFiles.m
 	
   Matlab data file:
 		lungData.m
@@ -44,6 +45,7 @@ Folder name: CHANVESE
 
   Matlab example file:
 		ExampleCode.m
+		ExampleDetail.m
 
   Document file:
 		Read me.TXT
